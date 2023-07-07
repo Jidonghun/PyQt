@@ -1,2 +1,2 @@
-# PyQtN
+# PyQt
 K Digital BigData Analysis
